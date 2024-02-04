@@ -61,3 +61,8 @@ body {
   color:black;
   font-weight:bold;
 }
+img {
+  margin-left: 350px;
+  border: solid 2px black;
+  opacity: .75;
+}
